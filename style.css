@@ -10,7 +10,7 @@ main{
     background: linear-gradient(180deg, rgba(119,47,211,1) 30%, rgb(62, 14, 124) 99%); 
     width: 100vw;
     min-height: 100vh;
-    padding: 2% 4%;
+    padding: 1% 4%;
     display: flex;
     flex-direction: column;
     align-items: center;
